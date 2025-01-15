@@ -1,0 +1,52 @@
+html tags 
+-structural tags
+    <html></html> defines beginning and end of an html document 
+    <head></head> contains metadata about the document e.g title, links, stylesheets
+    and scripts 
+    <title></title> sets the title of the web page 
+    <body></body> contains the main content of the html document 
+-text formatting tags 
+      <h1></h1>  define headings h1 being the largest and h6 the smallest
+      <p></p> defines a paragraph
+      <br>inserts a line break or <strong></strong> makes text bold
+      <i></i> or <em></em> makes text italic
+      <u></u> underlines text 
+      <small></small> highlights text 
+      <blockquote></blockquote> defines a block of quoted text 
+-link and media tags 
+     <a href="url"></a> creates a hyperlink to another page or resource
+     <img src="url" alt="description"> embeds an image
+     <video src=""></video> adds a video with controls for playback
+     <audio src=""></audio> embeds audio with controls 
+     <iframe src="" frameborder="0"></iframe> adds another html document or esource 
+     such  as a map or video 
+-List Tags
+These tags are used to create lists and list items.
+     <ul></ul>:Defines an unordered (bulleted) list.
+     <ol></ol>:Defines an ordered (numbered) list.
+     <li></li>:Defines a list item in an ordered or unordered list.
+-Form Tags
+These tags are used to create forms and collect user input.
+    <form action=""></form> Defines a form for user input.
+    <input type="text"> Form Input – Defines an input field for user data.
+    <button></button>Form Input – Defines a clickable button in a form.
+-Table Tags
+These tags are used for creating and displaying tables.
+     <table></table>: Defines a table.
+     <tr></tr>: Defines a row in a table.
+     <td></td>: Defines a cell in a table.
+     <th></th>: Defines a header cell in a table.
+-Layout Tags
+These tags are used for grouping content or structuring the layout of a page.
+    <div></div>: A generic block-level container for grouping and styling content.
+    <section></section> Defines a section of content within the document.
+    <article></article> Defines a self-contained piece of content, like a news article or blog post.
+    <header></header>Defines a header for a section or page.
+    <footer></footer>Defines a footer for a section or page.
+    <aside></aside>Represents content aside from the main content (like a sidebar).
+    <nav></nav>Defines navigation links.
+9. Control Tags
+These tags are used for interacting with the document or controlling its behavior.
+    <script></script>Embeds or links to JavaScript code for interactivity or functionality.
+    <noscript></noscript> Defines alternative content for browsers that do not support JavaScript.
+     
